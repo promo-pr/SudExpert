@@ -1,20 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Input;
-
-using Sudexpert.Core.Helpers;
+﻿using Sudexpert.Core.Helpers;
 using Sudexpert.Core.Services;
 using Sudexpert.Helpers;
 using Sudexpert.Services;
 using Sudexpert.Views;
-
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Windows.Input;
 using Windows.System;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Navigation;
-
 using WinUI = Microsoft.UI.Xaml.Controls;
 
 namespace Sudexpert.ViewModels

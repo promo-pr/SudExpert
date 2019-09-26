@@ -1,9 +1,7 @@
-﻿using System;
-
-using Sudexpert.Core.Helpers;
+﻿using Sudexpert.Core.Helpers;
 using Sudexpert.Core.Services;
 using Sudexpert.Services;
-
+using System;
 using Windows.ApplicationModel.Activation;
 using Windows.UI.Xaml;
 

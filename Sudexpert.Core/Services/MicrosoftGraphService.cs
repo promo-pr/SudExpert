@@ -1,10 +1,9 @@
-﻿using System;
+﻿using Sudexpert.Core.Helpers;
+using Sudexpert.Core.Models;
+using System;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
-
-using Sudexpert.Core.Helpers;
-using Sudexpert.Core.Models;
 
 namespace Sudexpert.Core.Services
 {

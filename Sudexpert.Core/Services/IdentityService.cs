@@ -1,12 +1,10 @@
-﻿using System;
+﻿using Microsoft.Identity.Client;
+using Sudexpert.Core.Helpers;
+using System;
 using System.Configuration;
 using System.Linq;
 using System.Net.NetworkInformation;
 using System.Threading.Tasks;
-
-using Microsoft.Identity.Client;
-
-using Sudexpert.Core.Helpers;
 
 namespace Sudexpert.Core.Services
 {

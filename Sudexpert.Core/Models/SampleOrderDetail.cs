@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Sudexpert.Core.Models
+﻿namespace Sudexpert.Core.Models
 {
     // TODO WTS: Remove this class once your pages/features are using your data.
     // This is used by the SampleDataService.

@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 using Sudexpert.Helpers;
 
 using Windows.UI.Xaml.Media.Imaging;

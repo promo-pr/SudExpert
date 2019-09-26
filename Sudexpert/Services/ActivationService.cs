@@ -1,12 +1,10 @@
-﻿using System;
+﻿using Sudexpert.Activation;
+using Sudexpert.Core.Helpers;
+using Sudexpert.Core.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
-using Sudexpert.Activation;
-using Sudexpert.Core.Helpers;
-using Sudexpert.Core.Services;
-
 using Windows.ApplicationModel.Activation;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;

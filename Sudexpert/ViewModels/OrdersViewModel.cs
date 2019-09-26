@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.ObjectModel;
-using System.Threading.Tasks;
-
-using Sudexpert.Core.Models;
+﻿using Sudexpert.Core.Models;
 using Sudexpert.Core.Services;
 using Sudexpert.Helpers;
+using System.Collections.ObjectModel;
+using System.Threading.Tasks;
 
 namespace Sudexpert.ViewModels
 {

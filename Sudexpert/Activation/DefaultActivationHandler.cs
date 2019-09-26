@@ -1,8 +1,6 @@
-﻿using System;
+﻿using Sudexpert.Services;
+using System;
 using System.Threading.Tasks;
-
-using Sudexpert.Services;
-
 using Windows.ApplicationModel.Activation;
 
 namespace Sudexpert.Activation

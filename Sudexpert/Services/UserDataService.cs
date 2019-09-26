@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-
-using Sudexpert.Core.Helpers;
+﻿using Sudexpert.Core.Helpers;
 using Sudexpert.Core.Models;
 using Sudexpert.Core.Services;
 using Sudexpert.Helpers;
 using Sudexpert.ViewModels;
-
+using System;
+using System.Threading.Tasks;
 using Windows.Storage;
 
 namespace Sudexpert.Services

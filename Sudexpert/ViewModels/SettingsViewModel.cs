@@ -1,12 +1,10 @@
-﻿using System;
-using System.Threading.Tasks;
-using System.Windows.Input;
-
-using Sudexpert.Core.Helpers;
+﻿using Sudexpert.Core.Helpers;
 using Sudexpert.Core.Services;
 using Sudexpert.Helpers;
 using Sudexpert.Services;
-
+using System;
+using System.Threading.Tasks;
+using System.Windows.Input;
 using Windows.ApplicationModel;
 using Windows.UI.Xaml;
 

@@ -1,8 +1,6 @@
-﻿using System;
+﻿using Sudexpert.Helpers;
+using System;
 using System.Threading.Tasks;
-
-using Sudexpert.Helpers;
-
 using Windows.ApplicationModel.Core;
 using Windows.Storage;
 using Windows.UI.Core;
